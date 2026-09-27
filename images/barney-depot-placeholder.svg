@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder sketch of the Barney depot</title>
+  <desc id="desc">A simple line-art placeholder showing a small railroad depot beside tracks.</desc>
+  <rect width="960" height="600" fill="#f8fafb"/>
+  <g fill="none" stroke="#68737c" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 500c150-18 300-26 452-22 112 3 222 13 330 31" stroke-width="3" opacity=".45"/>
+    <path d="M115 522c236-28 482-26 730 5" stroke-width="5"/>
+    <path d="M176 490l-42 46M272 482l-37 58M370 479l-30 67M470 478l-22 74M572 482l-14 75M674 490l-5 73M774 503l4 66" stroke-width="4" opacity=".8"/>
+    <path d="M186 415h523" stroke-width="5"/>
+    <path d="M219 256h445v159H219z" stroke-width="5"/>
+    <path d="M178 256l263-106 263 106z" stroke-width="5"/>
+    <path d="M239 244l201-78 201 78" stroke-width="3" opacity=".65"/>
+    <path d="M284 306h82v109h-82z" stroke-width="5"/>
+    <path d="M426 306h91v73h-91zM564 306h70v73h-70z" stroke-width="5"/>
+    <path d="M427 343h89M472 307v72M565 343h69M600 307v72" stroke-width="3"/>
+    <path d="M261 222h134v47H261z" stroke-width="4"/>
+    <path d="M290 246h78" stroke-width="3"/>
+    <path d="M690 326h86M690 351h86M690 376h86" stroke-width="4"/>
+    <path d="M754 302v113" stroke-width="4"/>
+    <path d="M734 302l45 0 22 26" stroke-width="4"/>
+    <path d="M142 438h690" stroke-width="3" opacity=".35"/>
+    <path d="M158 438l-28 63M802 438l47 70" stroke-width="3" opacity=".35"/>
+    <path d="M424 128c34-17 72-17 107 0M383 105c61-33 129-33 193 0" stroke-width="4" opacity=".45"/>
+  </g>
+  <g fill="#334956" font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="328" y="253" font-size="27" letter-spacing="1">BARNEY</text>
+    <text x="480" y="566" font-size="24" fill="#626b73">Depot sketch placeholder</text>
+  </g>
+</svg>
