@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.barneyga.com/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/1900-census/</loc><lastmod>2026-09-30</lastmod></url>
@@ -211,6 +211,7 @@
   <url><loc>https://www.barneyga.com/early-history/alfred-belote/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/daniel-mccranie/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/drew-vickers/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/early-history/ely-webb/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/enoch-hall/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/francis-rountree/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/hamilton-sharpe/</loc><lastmod>2026-09-30</lastmod></url>
@@ -225,11 +226,20 @@
   <url><loc>https://www.barneyga.com/early-history/lawrence-folsom/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/sion-hall/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/washington-joyce/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/early-history/william-alderman/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/william-blair/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/william-folsom/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/william-hendry/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-history/william-smith/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/early-roads/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/alderman/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/early-settlers-and-descendants/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/folsom/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/hall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/rountree/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/vickers/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/families/webb/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/first-municipal-years/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/first-municipal-years/commerce-and-industry/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/first-municipal-years/community-life-and-politics/</loc><lastmod>2026-09-30</lastmod></url>
@@ -289,6 +299,38 @@
   <url><loc>https://www.barneyga.com/military-service/civil-war/william-m-russell/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/military-service/civil-war/william-r-ryall/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/mount-zion/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/annie-elizabeth-ryall-jones/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/arthur-p-hall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/bolin-green-hall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/charles-wesley-ryall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/cora-ella-rountree-pounds/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/daniel-alderman/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/e-d-ponder/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/edna-vickers-ryall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/elias-p-s-denmark/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/george-s-joyce/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/george-washington-prine-jr/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/hardy-vickers-ryall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/henrietta-elizabeth-rountree-joyce/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/ida-may-bullard-brogan/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/isom-barney-ingram/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/jacob-hunter-hiers/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/james-perry-peeples/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/janie-joyce/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/jason-w-kendrick/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/jeremiah-walton-folsom/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/jesse-chambers/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/john-h-ryall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/lula-s-collingsworth-hall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/malinda-anthonette-webb-chambers/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/michael-phillip-brogan/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/minnie-a-mckinnon/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/minnie-adelia-culbreth/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/mitchell-enoch-alderman/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/robert-paxson/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/sion-l-hall/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/william-f-rountree/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.barneyga.com/people/william-raiford-ryall/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/pre-incorporation/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/pre-incorporation/disease-fire-violence-and-law/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/pre-incorporation/farming-livestock-and-markets/</loc><lastmod>2026-09-30</lastmod></url>
@@ -346,4 +388,4 @@
   <url><loc>https://www.barneyga.com/thomas-swain/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/timeline/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://www.barneyga.com/valdosta-moultrie-western/</loc><lastmod>2026-09-30</lastmod></url>
-<url><loc>https://www.barneyga.com/people/james-perry-peeples/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/michael-phillip-brogan/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/ida-may-bullard-brogan/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/george-washington-prine-jr/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/robert-paxson/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/janie-joyce/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/jason-w-kendrick/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/minnie-a-mckinnon/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/minnie-adelia-culbreth/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/lula-s-collingsworth-hall/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/isom-barney-ingram/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/elias-p-s-denmark/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/jesse-chambers/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/jeremiah-walton-folsom/</loc><lastmod>2026-09-30</lastmod></url><url><loc>https://www.barneyga.com/people/e-d-ponder/</loc><lastmod>2026-09-30</lastmod></url></urlset>
+</urlset>
