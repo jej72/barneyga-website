@@ -649,3 +649,9 @@ footer {
         transition: none;
     }
 }
+
+/* Keyboard-operable navigation/search labels (2026-10-14). */
+label[role="button"]:focus-visible {
+    outline: 3px solid var(--barney-accent);
+    outline-offset: 3px;
+}
